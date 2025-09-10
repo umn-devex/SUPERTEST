@@ -2,7 +2,7 @@
 less run some actions
 Gladys wants more tests
 
-Gladys still wants more tests
+GLaDOS still wants more tests
 
 more test, all the tests
 
